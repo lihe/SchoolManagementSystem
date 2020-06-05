@@ -164,7 +164,10 @@ Usertype：Admin
 打赏一下，生活更好！🤑
 
 Wechat
+
 <img src="https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231948.JPG" width="200px"/>
+
 Alipay
+
 <img src="https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231954.JPG" width="180px" />
 
