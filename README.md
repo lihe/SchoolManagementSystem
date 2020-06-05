@@ -162,4 +162,7 @@ P.S
 如果觉得不错，记得给个Star⭐
 
 打赏一下，生活更好！
-![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605230404.JPG)![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605230403.JPG)
+
+<img src="https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605230404.JPG" style="zoom: 50%;" />
+
+<img src="https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605230403.JPG" style="zoom:25%;" />
