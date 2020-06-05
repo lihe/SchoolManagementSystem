@@ -163,6 +163,7 @@ P.S
 
 打赏一下，生活更好！
 
-<img src="https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605230404.JPG" style="zoom: 50%;" />
+![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231207.jpg)
 
-<img src="https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605230403.JPG" style="zoom:25%;" />
+![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231235.jpg)
+
