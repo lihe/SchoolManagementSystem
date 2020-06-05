@@ -15,7 +15,7 @@ SchoolManagement-1.0.exe为安装文件
 DriverManager.getConnection("jdbc:mysql://localhost/schoolmanagement","root","");
 ```
 
-为数据库连接语句
+为程序源文件中据库连接语句
 
 配置好数据库后并安装程序即可运行
 
