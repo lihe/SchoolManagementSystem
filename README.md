@@ -163,7 +163,11 @@ P.S
 
 打赏一下，生活更好！
 
-![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231207.jpg)
+Wechat
 
-![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231235.jpg)
+![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231948.JPG)
+
+Alipay
+
+![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231954.JPG)
 
