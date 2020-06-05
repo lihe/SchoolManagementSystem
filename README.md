@@ -157,17 +157,18 @@ Usertype：Admin
 
 ![Snipaste_2020-05-14_11-25-18](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605212322.jpg)
 
-P.S
+## P.S
 
 如果觉得不错，记得给个Star⭐
 
 打赏一下，生活更好！
 
-Wechat
+### Wechat
 
-![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231948.JPG)
+<img src="https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231948.JPG" width="200px" />
 
-Alipay
 
-![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231954.JPG)
+### Alipay
+
+<img src="https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605231954.JPG" width="200px" />
 
