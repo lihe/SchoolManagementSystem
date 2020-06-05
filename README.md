@@ -2,7 +2,7 @@
 
 ## 前言
 
-此项目为《软件工程》课程设计，要求实现一个基本的学生教务系统，项目跨度为一个月。
+此项目为《软件工程》课程设计，要求实现一个基本的学生教务系统，项目时间跨度为一个月。
 
 开发环境为Netbeans8.2 + MySql + phpMyadmin + JDK1.8
 
@@ -164,6 +164,7 @@ Usertype：Admin
 
 打赏一下，生活更好！🤑
 
-![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200605234241.jpg)
+![](https://cdn.jsdelivr.net/gh/lihe/Pic/img/20200606003724.jpg)
+
 
 
